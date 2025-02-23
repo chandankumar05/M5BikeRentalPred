@@ -1,0 +1,2 @@
+dataFile="D:\\TalentSprintCourse\\miniProject\\M5BikeRentalPred\\bikeshare_model\\datasets\\bike-sharing-dataset.csv"
+MODEL_PATH="D:\\TalentSprintCourse\\miniProject\\M5BikeRentalPred\\bikeshare_model\\trained_models\\model.pkl"
